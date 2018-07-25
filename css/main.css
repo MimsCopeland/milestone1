@@ -93,7 +93,7 @@ nav a{
 
 /*****************about****************/
 #about {
-  background-color: /*#e23c00*/#fcad53;
+  background-color: /*#e23c00*/#fad894;
 /*  color: white;*/
 }
 
@@ -121,15 +121,14 @@ nav a{
 
 #print {
   clear: both;
-  padding: 20px 0 100px 0;
+  padding: 20px 0 500px 0;
 }
 
 /**********************contact********************/
 #contact {
   clear: both;
-  background-color: #fcad53;
+  background-color: #fad894;
   height: 200px;
-  margin-top: 200px;
   padding: 20px 0 0 100px;
 }
 
@@ -143,13 +142,13 @@ nav a{
 }
 
 footer {
-  background-color: #fcad53;
+  background-color: #fad894;
   height: 50px;
-  margin-top: 0;
   padding-left: 100px;
 }
 
 footer p {
-  font-size: 12px;
-
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  margin-top: 0;
 }
